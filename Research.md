@@ -4,11 +4,12 @@ title: Research
 permalink: /res/
 ---
 
-Dr. Emily Bockmon
+Oceaongraphy and Marine Chemistry
 ---
-Oceaongraphy and Marine Chemistry research team
+Supervised by Dr. Emily Bockmon
+
+
+Ogranic Synthesis Laboratory
 ---
-Dr. Phil Costanzo
----
-Ogranic Synthesis
----
+Supervised by Dr. Phil Costanzo
+
