@@ -4,5 +4,5 @@ title: Publications
 permalink: /pubs/
 ---
 
-1. A great publication.
-2. Another great publication.
+None yet!
+A few in progress though!
