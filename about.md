@@ -6,15 +6,15 @@ permalink: /about/
 
 ### More Information
 
-*Learning to surf since the summer of '21
+-Learning to surf since the summer of '21
 
-Rugy player since middle school (winger or flyhalf)
+-Rugy player since middle school (winger or flyhalf)
 
-trilingual (English, Spanish, & Swedish)
+-trilingual (English, Spanish, & Swedish)
 
-Dual citizen with a Swedish passport
+-Dual citizen with a Swedish passport
 
-CPR/AED certified
+-CPR/AED certified
 
 ### Contact me
 
