@@ -6,7 +6,7 @@ permalink: /about/
 
 ### More Information
 
-Learning to surf since the summer of '21
+*Learning to surf since the summer of '21
 
 Rugy player since middle school (winger or flyhalf)
 
