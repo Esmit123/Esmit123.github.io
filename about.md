@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Learning to surf since the summer of '21
+Rugy player since middle school (winger or flyhalf)
+trilingual (English, Spanish, & Swedish)
+Dual citizen with a Swedish passport
+CPR/AED certified
 
 ### Contact me
 
