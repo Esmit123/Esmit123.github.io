@@ -10,7 +10,7 @@ permalink: /about/
 
 -Rugy player since middle school (winger or flyhalf)
 
--trilingual (English, Spanish, & Swedish)
+-Trilingual (English, Spanish, & Swedish)
 
 -Dual citizen with a Swedish passport
 
